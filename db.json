@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Macbook Air M1",
+      "description": "High performance with M1 chips, slim design, light weight stylish",
+      "price": 130000,
+      "rating": 5
+    },
+    {
+      "name": "Red Seat",
+      "description": "This is well design crafted product that will suit many need, in term of quality, craftmanship and aesthetics",
+      "price": 20000,
+      "rating": 4
+    },
+    {
+      "name": "Office Seat",
+      "description": "This is well design crafted product that will suit many need, in term of quality, craftmanship and aesthetics",
+      "price": 30000,
+      "rating": 5
+    }
+  ]
+}
