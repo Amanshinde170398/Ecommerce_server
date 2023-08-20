@@ -4,19 +4,36 @@
       "name": "Macbook Air M1",
       "description": "High performance with M1 chips, slim design, light weight stylish",
       "price": 130000,
-      "rating": 5
+      "rating": 5,
+      "img": "https://images.unsplash.com/photo-1657633409344-1755afeb010f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFjYm9vayUyMGFpciUyMG0xfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
     },
     {
       "name": "Red Seat",
       "description": "This is well design crafted product that will suit many need, in term of quality, craftmanship and aesthetics",
       "price": 20000,
-      "rating": 4
+      "rating": 4,
+      "img": "https://plus.unsplash.com/premium_photo-1682430345234-1b99f34718b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVkJTIwb2ZmaWNlJTIwY2hhaXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
     },
     {
       "name": "Office Seat",
       "description": "This is well design crafted product that will suit many need, in term of quality, craftmanship and aesthetics",
       "price": 30000,
-      "rating": 5
+      "rating": 5,
+      "img": "https://images.unsplash.com/photo-1541558869434-2840d308329a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8b2ZmaWNlJTIwY2hhaXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "iPhone",
+      "description": "High performing well design slim best phone.",
+      "price": 130000,
+      "rating": 5,
+      "img": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aSUyMHBob25lfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Shoes",
+      "description": "High performing well design shoes.",
+      "price": 15000,
+      "rating": 4.5,
+      "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60"
     }
   ]
 }
